@@ -12,13 +12,13 @@ With over a decade of experience building scalable, high-performance web applica
 React · Next.js · Redux Toolkit · React Native · TypeScript · Styled-Components · Tailwind CSS · Ant Design · Storybook
 
 **Backend:**  
-Node.js · Express.js · Hapi.js · GraphQL · REST APIs · PostgreSQL · MongoDB · Prisma · Redis
+Node.js · Express.js · Hapi.js · REST APIs · PostgreSQL · MongoDB · Prisma · Redis
 
 **Testing & QA:**  
 Jest · Cypress · React Testing Library
 
 **DevOps & Tools:**  
-AWS · GitHub Actions · GitLab CI/CD · Docker · Sentry · Amplitude · Microservices
+AWS · GitHub Actions · GitLab CI/CD · Docker · Sentry · Amplitude 
 
 ---
 
