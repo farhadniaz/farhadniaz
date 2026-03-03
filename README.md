@@ -9,10 +9,10 @@ With over a decade of experience building scalable, high-performance web applica
 ### 🔧 Tech Stack
 
 **Frontend:**  
-React · Next.js · Redux Toolkit· TypeScript · Styled-Components · Tailwind CSS · Ant Design · Storybook
+React · Next.js · Redux Toolkit· TypeScript · Styled-Components · Tailwind CSS · Ant Design · Storybook, Shadcn UI
 
 **Backend:**  
-Node.js · Express.js · REST APIs · PostgreSQL · MongoDB · Prisma · Redis
+Node.js · Express.js · REST APIs · PostgreSQL · Prisma · Redis
 
 **Testing & QA:**  
 Jest · Playwright · React Testing Library
