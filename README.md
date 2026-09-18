@@ -10,7 +10,7 @@ With over 10+ years of experience building scalable, high-performance web applic
 ### 🔧 Tech Stack
 
 **AI:**  
-LangChain.js · LangGraph.js · Generative UI  · OpenAI APIs · Agentic coding
+LangChain.js · LangGraph.js · MCP · Generative UI · OpenAI APIs · Agentic coding · Promptfoo
 
 **Backend:**  
 Node.js · Express.js · REST APIs · PostgreSQL · Prisma · Redis 
