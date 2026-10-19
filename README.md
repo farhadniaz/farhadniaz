@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Farhad
 
-🎯 **Full Stack AI/Agent Engineer** | 🛠️ React, Node.js, TypeScript, Next.js, Langchain-langgraph 
+🎯 **Full Stack AI/Agent Engineer** | 🛠️ React, Node.js, TypeScript, Next.js, Langchain, langgraph, PostgreSQL 
 
 With over 10+ years of experience building scalable, high-performance web applications, I specialize in full-stack solutions. From startups to global tech leaders, I bring technical leadership, cross-functional collaboration, and a strong product mindset to every team I join.
 
